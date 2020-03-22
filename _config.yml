@@ -1,0 +1,23 @@
+## Settings
+title: Hung To's Personal Blog
+owner: "Hung V To"
+url: "http://www.blogsomething.net"
+baseurl: "http://www.blogsomething.net"
+# permalink: /:home/
+description:
+markdown: kramdown
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
+## Global Variables
+email: "hungvanto123456@gmail.com"
+facebook: "to.vanhung1"
+linkedin: "to-van-hung-0319bb146"
+# path to: css/, fonts/, img/ and js/
+assets_path: "/assets" # i.e. "/assets" 
+# statement: "Designed by DeerRIDER, All Rights Reserved"
+# default max toc levels: 1 - 6 (h1 - h6)
+toc_level: 1
+permalink: /:title/
+# texts randomly displayed in background
+bgtext: "αβγδεζηθικλμνξοπρστυφχψω∷∫∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌√"
